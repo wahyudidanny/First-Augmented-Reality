@@ -1,9 +1,11 @@
 # First-Augmented-Reality
 Created First Augmented Reality
 
-Play Model Animation 
+You can find the source code and assets in package
 
-Pause Model Animation
+Make sure Unity already install first
+
+
 
 
 
